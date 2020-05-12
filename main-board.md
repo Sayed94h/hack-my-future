@@ -11,6 +11,3 @@ Confident: 'I know how these things work'
 
 ---
 
-- testing 
-
-
