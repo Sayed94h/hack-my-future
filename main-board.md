@@ -5,9 +5,9 @@ Basic Understanding: 'Things that I understand but not completely'
 
 Currently Studying: 'What I am working on'
 
-Comfortable: 'I am comfortable with things things'
+Comfortable: 'I am comfortable with things things', 'Another new thing'
 
-Confident: 'I know how these things work'
+Confident: 'I know how these things work', 'New thing'
 
 ---
 
