@@ -2,8 +2,8 @@
 name: Learnable
 about: a starter for study cards
 title: ''
-labels: ''
-assignees: ''
+labels: 'week-01'
+assignees: 'Sayed94h'
 
 ---
 
