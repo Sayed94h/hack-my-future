@@ -1,7 +1,7 @@
 ---
 name: Learnable
 about: a starter for study cards
-title: ''
+title: 'Work with GitHub'
 labels: 'week-01'
 assignees: 'Sayed94h'
 
