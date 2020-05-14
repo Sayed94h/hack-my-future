@@ -10,3 +10,15 @@
 
 1. Some markdown code
 
+1. Pull Requests
+
+1. Merging 
+
+1. Forking
+
+1. Creating:
+    1. repo's
+    1. branches
+    1. new files
+    1. ...
+
