@@ -1,6 +1,6 @@
 ## List of modules
  ---
- * [ ] Working With Code
+ * [x] Working With Code
 
  * [ ] Next week
 
