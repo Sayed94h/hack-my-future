@@ -8,7 +8,7 @@
 
 1. Using GitKraken
 
-1. Some markdown code
+1. Some markdown syntax
 
 1. Pull Requests
 
