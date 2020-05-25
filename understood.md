@@ -21,4 +21,16 @@
     1. branches
     1. new files
     1. ...
+    
+1. HTML5
+
+1. CSS3
+
+1. About responsive web design
+
+1. Collaborative workflow
+
+1. Development Strategy
+
+
 
