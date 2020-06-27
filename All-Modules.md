@@ -2,9 +2,9 @@
  ---
  * [x] Working With Code
 
- * [ ] Incremental-development
+ * [x] Incremental-development
 
- * [ ] Next week
+ * [x] Debugging
 
  * [ ] Next week
 
