@@ -13,6 +13,8 @@
 
 * Development Strategy
 
+* Agile in programming
+
 * HTML5 Semantics
 
 * CSS3
@@ -20,4 +22,19 @@
 * Responsive Web Design
 
 * Collaborative work
+
+* Pair programming
+
+* JavaScript
+
+ * Basics: variables, primitive data types, 
+ * Conditionals
+ * Loops
+ * Debugging
+ * Code Organise
+ * Developer tools, using tools to troubleshoot
+ 
+ 
+ 
+ 
 
