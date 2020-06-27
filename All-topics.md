@@ -16,6 +16,8 @@
 * Agile in programming
 
 * HTML5 Semantics
+  
+  * Accessibility for web page
 
 * CSS3
 
