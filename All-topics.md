@@ -27,12 +27,12 @@
 
 * JavaScript
 
- * Basics: variables, primitive data types, 
- * Conditionals
- * Loops
- * Debugging
- * Code Organise
- * Developer tools, using tools to troubleshoot
+  * Basics: variables, primitive data types, 
+  * Conditionals
+  * Loops
+  * Debugging
+  * Code Organise
+  * Developer tools, using tools to troubleshoot
  
  
  
