@@ -14,7 +14,7 @@
 
 #### You will love programming when you build something that makes life easy
 
-# But it is still not interesting to me 😀😂😂
+# But it is still not interesting to me 😀😂😂 maybe strange!
 
 ## Keep these words at the back of your head!
 #### Build, Create, enjoy, interesting, solving, useful, easy, benefits, advantages, ... 
