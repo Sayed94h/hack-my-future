@@ -6,13 +6,13 @@
 
  1. - [x] Debugging
 
- 1. - [ ] Testing
+ 1. - [x] Testing
 
- 1. - [ ] Separation-of-Concern
+ 1. - [x] Separation-of-Concern
  
- 1. - [ ] State
+ 1. - [x] State
  
- 1. - [ ] Encapsulation
+ 1. - [x] Encapsulation
  
  1. - [ ] Next week
  
