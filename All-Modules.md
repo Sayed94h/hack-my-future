@@ -1,12 +1,28 @@
 ## List of modules
  ---
- * [x] Working With Code
+ 1. - [x] Working With Code
 
- * [x] Incremental-development
+ 1. - [x] Incremental-development
 
- * [x] Debugging
+ 1. - [x] Debugging
 
- * [ ] Next week
+ 1. - [ ] Testing
 
- * [ ] Next week
+ 1. - [ ] Separation-of-Concern
+ 
+ 1. - [ ] State
+ 
+ 1. - [ ] Encapsulation
+ 
+ 1. - [ ] Next week
+ 
+ 1. - [ ] Next week
+ 
+ 1. - [ ] Next week
+ 
+ 1. - [ ] Next week
+ 
+ 1. - [ ] Next week
+ 
+ 
  
