@@ -35,6 +35,13 @@
   * Debugging
   * Code Organise
   * Developer tools, using tools to troubleshoot
+  * Objects
+  * Arrays
+  * Cllasses
+  * Functions
+  * Inheritance or prototyping stuff
+  * Promises --> fetch --> API --> fetch REST 
+  
  
  
  
