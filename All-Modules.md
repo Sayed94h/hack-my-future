@@ -14,15 +14,15 @@
  
  1. - [x] Encapsulation
  
- 1. - [ ] Asynchronous Programming
+ 1. - [x] Asynchronous Programming
  
- 1. - [ ] Next week
+ 1. - [ ] Web App
  
- 1. - [ ] Next week
+ 1. - [ ] Database
  
- 1. - [ ] Next week
+ 1. - [ ] Frontend Frameworks
  
- 1. - [ ] Next week
+ 1. - [ ] Agile Development
  
  
  
